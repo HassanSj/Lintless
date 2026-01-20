@@ -233,7 +233,6 @@ Automated CI/CD via GitHub Actions.
 Full-Stack JavaScript Engineer
 
 * GitHub: [https://github.com/HassanSj](https://github.com/HassanSj)
-* LinkedIn: [https://linkedin.com/in/hassan-sajjad](https://linkedin.com/in/hassan-sajjad)
 
 ---
 
