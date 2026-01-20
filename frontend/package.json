@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "next": "14.0.4",
-    "react": "^18.2.0",
+    "react": "^19.2.3",
     "react-dom": "^18.2.0",
     "typescript": "^5.3.3",
     "@monaco-editor/react": "^4.6.0",
